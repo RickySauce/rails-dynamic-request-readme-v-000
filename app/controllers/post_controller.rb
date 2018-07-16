@@ -1,6 +1,6 @@
-class PostController < ApplicationController 
+class PostController < ApplicationController
 
-  def show 
+  def show
   end
-  
+
 end
